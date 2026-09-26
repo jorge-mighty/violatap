@@ -1,0 +1,23 @@
+{
+  "short_name": "ViolaTap",
+  "name": "ViolaTap",
+  "icons": [
+    {
+      "src": "images/violatap.png",
+      "type": "image/png",
+      "sizes": "1210x1210",
+      "purpose": "any"
+    },
+    {
+      "src": "images/violatap.png",
+      "type": "image/png",
+      "sizes": "1210x1210",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/violatap/index.php",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "display": "standalone",
+  "orientation": "portrait"
+}
